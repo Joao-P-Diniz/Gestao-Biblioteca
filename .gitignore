@@ -42,3 +42,6 @@ Thumbs.db
 # Git
 # ===============================
 *.orig
+
+# Banco de dados local
+*.db
