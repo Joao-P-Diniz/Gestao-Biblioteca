@@ -1,6 +1,6 @@
 # 📚 Sistema de Biblioteca em Java
 
-Projeto desenvolvido em **Java** utilizando o padrão **MVC (Model–View–Controller)**, com interface gráfica em **Swing**, acesso a banco de dados via **JDBC** e versionamento utilizando **Git e GitHub**.
+Projeto desenvolvido em **Java** utilizando o padrão **MVC (Model–View–Controller)**, com interface gráfica em **Swing**, acesso a banco de dados via **JDBC** e versionamento utilizando **Git e GitHub** desenvolvido por João Pedro da Silva Diniz e Lucas Bezerra dos Santos Brandão,no período 2025.2.
 
 ---
 
@@ -33,12 +33,18 @@ O projeto foi desenvolvido como atividade acadêmica, com foco em:
 
 ---
 ## Capturas de Telas
-<img src=""  width="500">
-<img src=""  width="500">
-<img src=""  width="500">
-<img src=""  width="500">
+<p>Tela inicial</p>
+<img width="302" height="198" alt="Captura de tela 2026-01-12 141128" src="https://github.com/user-attachments/assets/e8762dee-6d44-4441-876d-a776c361dff7" />
+<p>Tela de cadastrar Autor</p>
+<img width="388" height="200" alt="Captura de tela 2026-01-12 141146" src="https://github.com/user-attachments/assets/53f4e4b5-55ac-4e47-b623-33107a509afc" />
+<p>Tela de Lista de autores</p>
+<img width="490" height="299" alt="Captura de tela 2026-01-12 141207" src="https://github.com/user-attachments/assets/64d9adba-f60c-40ec-a777-af8cece76b65" />
+<p>Tela de cadastrar Livro</p>
+<img width="598" height="347" alt="Captura de tela 2026-01-12 141238" src="https://github.com/user-attachments/assets/15f77be6-a444-409b-9053-c3571ac40d27" />
 
 ---
+
+
 
 ## 🧱 Arquitetura do Projeto
 
@@ -146,8 +152,8 @@ CREATE TABLE livro (
 
 Projeto desenvolvido em dupla:
 
-`João Pedro`
+`João Pedro da Silva Diniz`
 Responsável pelo Back-end, Models, DAOs, Controllers e Conexão com Banco de Dados.
 
-`Lucas Bezerra`
+`Lucas Bezerra dos Santos Brandão`
 Responsável pela Interface Gráfica (Swing), Integração View ↔ Controller e Documentação.
