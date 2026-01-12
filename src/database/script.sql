@@ -1,0 +1,12 @@
+CREATE TABLE autor (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    nome TEXT NOT NULL
+);
+
+CREATE TABLE livro (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    titulo TEXT NOT NULL,
+    ano INTEGER NOT NULL,
+    autor_id INTEGER NOT NULL,
+    FOREIGN KEY (autor_id) REFERENCES autor(id)
+);
