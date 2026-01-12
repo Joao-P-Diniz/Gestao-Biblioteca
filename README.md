@@ -32,6 +32,13 @@ O projeto foi desenvolvido como atividade acadêmica, com foco em:
 - **GitHub**
 
 ---
+## Capturas de Telas
+<img src=""  width="500">
+<img src=""  width="500">
+<img src=""  width="500">
+<img src=""  width="500">
+
+---
 
 ## 🧱 Arquitetura do Projeto
 
