@@ -1,0 +1,44 @@
+# ===============================
+# Java - arquivos compilados
+# ===============================
+*.class
+*.log
+
+# ===============================
+# Diretórios de build
+# ===============================
+/out/
+/bin/
+/build/
+/target/
+
+# ===============================
+# IDEs
+# ===============================
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+/nbproject/private/
+/dist/
+/nbbuild/
+
+# VS Code
+.vscode/
+
+# ===============================
+# Sistema Operacional
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Git
+# ===============================
+*.orig
