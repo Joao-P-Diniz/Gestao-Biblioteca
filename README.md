@@ -1,6 +1,6 @@
 # 📚 Sistema de Biblioteca em Java
 
-Projeto desenvolvido em **Java** utilizando o padrão **MVC (Model–View–Controller)**, com interface gráfica em **Swing**, acesso a banco de dados via **JDBC** e versionamento utilizando **Git e GitHub** desenvolvido por João Pedro e Lucas Bezerra,no período 2025.2.
+Projeto desenvolvido em **Java** utilizando o padrão **MVC (Model–View–Controller)**, com interface gráfica em **Swing**, acesso a banco de dados via **JDBC** e versionamento utilizando **Git e GitHub** desenvolvido por João Pedro da Silva Diniz e Lucas Bezerra dos Santos Brandão,no período 2025.2.
 
 ---
 
@@ -152,8 +152,8 @@ CREATE TABLE livro (
 
 Projeto desenvolvido em dupla:
 
-`João Pedro`
+`João Pedro da Silva Diniz`
 Responsável pelo Back-end, Models, DAOs, Controllers e Conexão com Banco de Dados.
 
-`Lucas Bezerra`
+`Lucas Bezerra dos Santos Brandão`
 Responsável pela Interface Gráfica (Swing), Integração View ↔ Controller e Documentação.
